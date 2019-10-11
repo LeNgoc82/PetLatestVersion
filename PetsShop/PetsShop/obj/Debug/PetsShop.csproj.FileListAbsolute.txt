@@ -1,0 +1,11 @@
+C:\Users\MyPC\source\repos\PetsShop\PetsShop\bin\Debug\PetsShop.exe.config
+C:\Users\MyPC\source\repos\PetsShop\PetsShop\bin\Debug\PetsShop.exe
+C:\Users\MyPC\source\repos\PetsShop\PetsShop\bin\Debug\PetsShop.pdb
+C:\Users\MyPC\source\repos\PetsShop\PetsShop\obj\Debug\PetsShop.csprojAssemblyReference.cache
+C:\Users\MyPC\source\repos\PetsShop\PetsShop\obj\Debug\PetsShop.Properties.Resources.resources
+C:\Users\MyPC\source\repos\PetsShop\PetsShop\obj\Debug\PetsShop.csproj.GenerateResource.cache
+C:\Users\MyPC\source\repos\PetsShop\PetsShop\obj\Debug\PetsShop.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\PetsShop\PetsShop\obj\Debug\PetsShop.exe
+C:\Users\MyPC\source\repos\PetsShop\PetsShop\obj\Debug\PetsShop.pdb
+C:\Users\MyPC\source\repos\PetsShop\PetsShop\obj\Debug\PetsShop.LoginForm.resources
+C:\Users\MyPC\source\repos\PetsShop\PetsShop\obj\Debug\PetsShop.RegisterForm.resources
